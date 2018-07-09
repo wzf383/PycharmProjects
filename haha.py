@@ -6,7 +6,7 @@ print "想要吗"
 a=0
 h=0
 area=0.0
-a=input("aa=")
+a=input("aaa=")
 h=input("h=")
 area=calcu_tri(a,h)
 print "Area is"+`area`
